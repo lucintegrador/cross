@@ -1,0 +1,16 @@
+body{
+	background-repeat: no-repeat;
+	 background-size: 100%; 
+}
+input[type="number"]{
+	width: 50px;
+}
+a{
+	color: white;
+}
+.num {
+  mso-number-format: general;
+}
+.text{
+  mso-number-format: "\@";/*force text*/
+}
